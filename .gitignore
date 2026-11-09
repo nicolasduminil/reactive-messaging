@@ -1,0 +1,12 @@
+target/
+!.mvn/wrapper/maven-wrapper.jar
+!**/src/main/**/target/
+!**/src/test/**/target/
+.env
+.run-all.pids
+env.properties
+### IntelliJ IDEA ###
+.idea/
+*.iws
+*.iml
+*.ipr
